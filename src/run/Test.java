@@ -10,7 +10,7 @@ public class Test {
 			UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
 			new StartPanel();
 		} catch (Exception e) {
-			e.printStackTrace();
+			//e.printStackTrace();
 		}
 	}
 }
