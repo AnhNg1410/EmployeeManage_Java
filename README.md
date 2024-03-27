@@ -20,25 +20,28 @@
 ##### 3.1. Thêm nhân viên.
 
 <img src="https://imgur.com/utpLcr0">
-![Image](https://imgur.com/utpLcr0)
+
 - Nhận nút "Add", sau đó điền các thông tin của nhân viên được thêm vào.
 - Thông tin về các nhân viên được thêm sẽ chỉ được hiển thị trên bảng để xử lí và chỉ được lưu vào file khi người dùng "Save file".
 
 ##### 3.2. Xoá nhân viên.
 
 <img src="https://imgur.com/RnMUHk8">
+
 - Chọn nhân viên muốn xoá, sau đó nhấn nút "Delete".
 - Thông tin về các nhân viên bị xoá sẽ chỉ được xoá trên bảng để xử lí và chỉ bị xoá khỏi file khi người dùng "Save file".
 
 ##### 3.3. Chỉnh sửa thông tin hiện có
 
 <img src="https://imgur.com/FUfhWF7">
+
 - Chọn nhân viên muốn sửa, sau đó nhấn nút "Update".
 - Thông tin về các nhân viên sau khi sửa sẽ chỉ được thay đổi trên bảng để xử lí và chỉ thay đổi trong file khi người dùng "Save file".
 
 ##### 3.4. Tìm kiếm nhân viên.
 
 <img src="https://imgur.com/61kHEqf">
+
 - Lựa chọn các tuỳ chọn để thực hiện tìm kiếm sau đó nhấn "Find" để tìm kiếm hoặc nhấn "Cancel" để huỷ trạng thái tìm kiếm.
   - Nhập thông tin vào trường nhập thông tin
     - Tích ô "ID" nếu muốn tìm theo ID của nhân viên.
@@ -50,6 +53,7 @@
 ##### 3.5. Các chức năng với File.
 
 <img src="https://imgur.com/eMYB1Ge">
+
 - Rê chuột đến menu file để mở thêm các tuỳ chọn với File.
   - "New" để tạo một trình xử lí mới.
   - "Open File" để mở file đã có sẵn.
@@ -60,12 +64,14 @@
 ##### 3.6. Đăng nhập với tài khoản ( người dùng ) có sẵn.
 
 <img src="https://imgur.com/aEm6OzC">
+
 - Sử dụng "Username" và "Password" có sẵn trong file dữ liệu để đăng nhập và có quyền truy cập vào file.
 - Mỗi file sẽ cần một lần đăng nhập riêng biệt.
 
 ##### 3.7. Đăng kí tài khoản.
 
 <img src="https://imgur.com/CnTtMn2">
+
 - Đăng kí các thông tin cơ bản để tạo tài khoản và có quyền truy cập vào file dữ liệu.
 - Thông tin đăng kí sẽ được lưu vào file dữ liệu.
 
