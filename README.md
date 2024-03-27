@@ -20,6 +20,7 @@
 ##### 3.1. Thêm nhân viên.
 
 <img src="https://imgur.com/utpLcr0">
+![Image](https://imgur.com/utpLcr0)
 - Nhận nút "Add", sau đó điền các thông tin của nhân viên được thêm vào.
 - Thông tin về các nhân viên được thêm sẽ chỉ được hiển thị trên bảng để xử lí và chỉ được lưu vào file khi người dùng "Save file".
 
