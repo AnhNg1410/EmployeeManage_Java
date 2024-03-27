@@ -1,6 +1,7 @@
 # EmployeeManagement_Java
 
 " A simple desktop computer application project for employee management using the Java language and Java Swing GUI. "
+
 " Dự án phần mềm máy tính đơn giản để quản lí nhân viên sử dụng ngôn ngữ lập trình Java và giao diện Java Swing. " 
 
 ### 1. Đây là gì ?
