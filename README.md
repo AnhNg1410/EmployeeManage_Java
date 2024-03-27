@@ -1,2 +1,2 @@
 # EmployeeManagement_Java
-The employee management application is developed using the Java language and Java Swing GUI
+"A simple desktop computer application project for employee management using the Java language and a simple Java Swing GUI."
