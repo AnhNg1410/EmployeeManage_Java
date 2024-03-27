@@ -15,7 +15,11 @@
     - Sử dụng mô hình Lập trình hướng đối tượng ( OOP ) để xây dựng các lớp Nhân viên và triển khai các đối tượng nhân viên.
     - Thông tin về các đối tượng được nhập và xử lí trên phần mềm thông qua giao diện của JAVA Swing.
     - Thông tin về các đối tượng được lưu xuống các file riêng thông qua thư viện đọc - ghi File của Java.
-
+- Tại sao lại lưu dữ liệu vào File Local.
+    - Về cơ bản, phần mềm hướng đến sử dụng văn phòng cơ bản nên nhu cầu lưu trữ dữ liệu không phức tạp với số lượng không quá lớn nên việc lưu trực tiếp vào file local giúp dễ dàng tiếp cận và sử dụng.
+    - Thông tin vẫn được mã hoá ( do lưu trực tiếp các đối tượng thay vì lưu dữ liệu chữ nguyên bản ) bên cạnh đó phải có tài khoản thì mới có quyền truy cập vào file nên tính bảo mật vẫn được đảm bảo.
+    - Tốc độ truy xuất nhanh hơn do người dùng chỉ cần tìm kiếm và trỏ trực tiếp đến file để mở và thực hiện xử lí.
+  
 ### 3. Các chức năng có trong sản phẩm .
 
 ##### 3.1. Thêm nhân viên.
