@@ -24,7 +24,7 @@
 
 ##### 3.1. Thêm nhân viên.
 
-<img src="https://imgur.com/utpLcr0">
+<img src="https://imgur.com/utpLcr0.png">
 ![Alt text]("https://imgur.com/utpLcr0")
 
 - Nhận nút "Add", sau đó điền các thông tin của nhân viên được thêm vào.
