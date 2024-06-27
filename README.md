@@ -1,4 +1,4 @@
-# EmployeeManagement_Java
+# EmployeeManage_Java
 
 " A simple desktop computer application project for employee management using the Java language and Java Swing GUI. "
 
